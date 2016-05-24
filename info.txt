@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"Gcombat Extended"
+	"version"			"3.1415926535897932384626433832795"
+	"up_date"			"When it's ready."
+	"author_name"		"MadMoe, Lightdemon, Treelor, Karbine, PaperJack"
+	"author_email"		"You can find it if you want it."
+	"author_url"		""
+	"info"				"Extra stuff for Gcombat."
+	"override"			"0"
+}

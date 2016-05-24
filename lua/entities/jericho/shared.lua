@@ -1,0 +1,22 @@
+ENT.Type 			= "anim"
+ENT.Base 			= "base_gmodentity"
+ENT.PrintName		= "jericho"
+ENT.Author			= "MadMoe"
+
+ENT.Spawnable		= false
+ENT.AdminSpawnable	= false
+ENT.follow			= nil
+ENT.Owner			= nil
+ENT.Exploded		= false
+ENT.LastPosition		= Vector(0,0,0)
+ENT.XCo			= nil
+ENT.YCo			= nil
+ENT.ZCo			= nil
+ENT.Dist		= nil
+ENT.Target			= Vector(0,0,0)
+ENT.PhysObj			= nil
+ENT.Locked			= false
+ENT.PreLaunch		= false
+ENT.STime			= nil
+ENT.LTime			= nil
+ENT.ParL			= nil

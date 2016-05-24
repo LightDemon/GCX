@@ -1,0 +1,64 @@
+11/05/08 - Creation of this log by PaperJack. Write here your modifications, please :)
+
+	( PaperJack Modifications )
+	Adding myself to the info.txt, creating my sound folder.
+	Changing V2 reload time to 20 to 35 and fixing the effect spam in it's projectile (srbm) by making it remove itself when exploding.
+	Changed the damage and it's radius of the V2. It is much more powerfoul now. ( dmg + 200, aoe + 500 )
+	Changing V2 explosion, it's much cooler now.
+	Added sounds.
+
+13/05/08 - 
+	
+	( PaperJack Modifications )
+	Made the athesplode look awesome with cool flashy stuff, also optimized it ( less lag ).
+	Made atapsplode look awesome and optimized it.
+	Created V2splode and made the V2 use it instead of athesplode, so there won't be an enormous effect on the arty shots.=======
+	Made atapsplode look awesome and optimized it.
+	Created " ionbewm " for lightie 
+
+	( LightDemon Modifications )
+	RE RE RE Fixed BreachShell.
+	Tweaked AntiTank AP damage.
+
+14/05/08 -
+
+	( PaperJack Modifications )
+	Fixed atapsplode and added sparks due to request of Karbine
+	Modified athesplode to be smaller due to request of Karbine
+
+16/5/08 - 
+	( LightDemon Modifications )
+	Fixed Tesla cannon and Laser stool compatibility issue. 
+	Changed srmb effect call from V2splode to srbmsplode.
+
+21/5/08 -
+	( PaperJack Modifications )
+	I think I have fixed srbmsplode appearing in v2's instead of having v2splode
+
+22/5/08 -
+	( LightDemon Modifications )
+	First release of Meter, Health Booster, and Repair Station.
+
+1/6/08 - 
+	( PaperJack Modifications )
+	Added a custom spawnpoint sent and it's effect. It gives an error when removed that I can't figure out how to take away.
+
+2/6/08 -
+	( PaperJack Modifications )
+	Created minatapsplode effect. Modified atapsplode.
+
+7/6/08 -
+	( LightDemon Modifications )
+	Added Blowtorch by Wolly.
+
+
+12/6/08 -
+	( LightDemon Modifications )
+	Created repair subsystem instead of doing it all in weapon.
+
+20/6/08 - 
+	( PaperJack Modifications )
+	Created missiledirt effect for the Jericho. Also, fixed v2splode.
+
+
+

@@ -1,0 +1,15 @@
+"SpawnMenu"
+{
+	"Information"
+	{
+		"version"		"2"
+		"name"		"Rail Gun"
+	}
+	"Entries"
+	{
+		"1"		"models/roltzy/railgun.mdl"
+		"2"		"models/roltzy/ship_railgun.mdl"
+		"3"		"models/roltzy/ammobox.mdl"
+		"4"		"models/roltzy/shield.mdl"
+	}
+}
